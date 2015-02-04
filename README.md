@@ -10,13 +10,13 @@ noindex: false
 permalink: /projects/textexpander-snippets/
 external-url:
 tags:
-- textexpander
-- snippets
-- scripts
-- github
+  - textexpander
+  - scripts
+  - github
 category: project
 description: A curated collection of TextExpander Snippets.
-keywords: TODO
+keywords:
+  - snippets
 sharing: true
 comments: false
 footer: true
